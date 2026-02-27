@@ -33,5 +33,5 @@ One file of order details:
 - Data Cleaning & Transformation Tools
 - Preparation, Summarize, Filter, Formula, Join tools, etc
 
-## Workflow Design -
+## Workflow Design
 ![Alteryx Workflow](/Result.png)
